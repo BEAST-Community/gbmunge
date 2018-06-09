@@ -4,7 +4,10 @@ Munge GenBank files into FASTA sequences and tab-separated metadata.
 
 This little C program will extract the following information from a GenBank file:
 
+>
+- 名字
 - name
+
 - accession
 - length
 - submission date
