@@ -8,7 +8,10 @@ This little C program will extract the following information from a GenBank file
 - 名字
 - name
 
+>
+- 登录号
 - accession
+
 - length
 - submission date
 - host
